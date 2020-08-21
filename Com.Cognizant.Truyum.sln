@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Dao", "Com.Cognizant.Truyum.Dao\Com.Cognizant.Truyum.Dao.csproj", "{CF2BBC06-352E-42C7-9091-588780B62179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Cognizant.Truyum.Dao", "Com.Cognizant.Truyum.Dao\Com.Cognizant.Truyum.Dao.csproj", "{CF2BBC06-352E-42C7-9091-588780B62179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Model", "Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model.csproj", "{0EA9DE3F-7A24-493F-8895-EB2F11F58181}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Cognizant.Truyum.Model", "Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model.csproj", "{0EA9DE3F-7A24-493F-8895-EB2F11F58181}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Utility", "Com.Cognizant.Truyum.Utility\Com.Cognizant.Truyum.Utility.csproj", "{CA7C9E7E-052A-40A4-8AB9-18C29E14ACC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Cognizant.Truyum.Utility", "Com.Cognizant.Truyum.Utility\Com.Cognizant.Truyum.Utility.csproj", "{CA7C9E7E-052A-40A4-8AB9-18C29E14ACC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProgram", "Console\ConsoleProgram.csproj", "{929541A0-9CC6-4725-8ABF-6BDC0377C6B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Console", "Console\Com.Cognizant.Truyum.Console.csproj", "{929541A0-9CC6-4725-8ABF-6BDC0377C6B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
