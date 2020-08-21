@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Com.Cognizant.Truyum.Dao": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}

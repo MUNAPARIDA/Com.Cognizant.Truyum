@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGr97GMqgmAuJzKf56LRJ1eNln2WlCjY05Rcc6D1Ky/PZQLd023GuVjz5rrm18WgExjZsA1klv5tcv1Cytkezw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parid\\source\\repos\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\parid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

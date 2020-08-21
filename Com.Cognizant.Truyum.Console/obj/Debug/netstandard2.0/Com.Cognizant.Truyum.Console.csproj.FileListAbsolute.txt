@@ -1,0 +1,9 @@
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.deps.json
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.dll
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.csprojAssemblyReference.cache
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.AssemblyInfoInputs.cache
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.AssemblyInfo.cs
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.csproj.CoreCompileInputs.cache
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.dll
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Console\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Console.pdb

@@ -1,0 +1,14 @@
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Console.exe.config
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Console.exe
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Console.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\obj\Debug\Console.exe
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\obj\Debug\Console.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Model.dll
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\parid\source\repos\Com.Cognizant.Truyum\Console\obj\Debug\Console.csproj.CopyComplete
