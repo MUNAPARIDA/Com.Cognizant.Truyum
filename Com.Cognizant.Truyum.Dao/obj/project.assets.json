@@ -1035,11 +1035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+      "projectUniqueName": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
       "projectName": "Com.Cognizant.Truyum.Dao",
-      "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+      "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
       "packagesPath": "C:\\Users\\parid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\obj\\",
+      "outputPath": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parid\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1053,11 +1053,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj": {
-              "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj"
+            "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj": {
+              "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj"
             },
-            "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj": {
-              "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj"
+            "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj": {
+              "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj"
             }
           }
         }

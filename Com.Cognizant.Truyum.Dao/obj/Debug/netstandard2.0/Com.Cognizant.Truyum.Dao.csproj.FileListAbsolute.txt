@@ -28,3 +28,18 @@ C:\Users\parid\Documents\GitHub\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\ob
 C:\Users\parid\Documents\GitHub\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.csproj.CopyComplete
 C:\Users\parid\Documents\GitHub\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.dll
 C:\Users\parid\Documents\GitHub\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.dll.config
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.deps.json
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.dll
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Model.dll
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Utility.dll
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Model.pdb
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.AssemblyInfoInputs.cache
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.AssemblyInfo.cs
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.csproj.CoreCompileInputs.cache
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.csproj.CopyComplete
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.dll
+C:\Users\parid\Documents\GitHub\NEW TRUYUM\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.pdb

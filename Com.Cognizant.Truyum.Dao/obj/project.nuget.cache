@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AlKNzbkXnQmvL1Hm6XibJSMyr0QEVEhWn0bzlQf50SqO74N30/pzGBMqhRqc5czL7Zcx9b1qOeCsjxti4nw73A==",
+  "dgSpecHash": "+6Pss+Kca4m36grT2gH4T6KikR1qG5hZkVT1PgGBCYV6PYZ5BwT68P3E3Csc1hQ4QqVQXUFbgFRiMOvyn8poFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+  "projectFilePath": "C:\\Users\\parid\\Documents\\GitHub\\NEW TRUYUM\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\parid\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
