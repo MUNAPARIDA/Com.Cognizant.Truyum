@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parid\\source\\repos\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
       "projectName": "Com.Cognizant.Truyum.Utility",
-      "projectPath": "C:\\Users\\parid\\source\\repos\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
+      "projectPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
       "packagesPath": "C:\\Users\\parid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parid\\source\\repos\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\obj\\",
+      "outputPath": "C:\\Users\\parid\\Documents\\GitHub\\Com.Cognizant.Truyum\\Com.Cognizant.Truyum.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parid\\AppData\\Roaming\\NuGet\\NuGet.Config"
